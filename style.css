@@ -1,0 +1,46 @@
+#menu{
+    width: auto;
+    height: auto;
+    background-color: white;
+    background-size: 2%;
+}
+
+#carrosel{
+    width: auto;
+    height: auto;
+}
+
+#promocoes{
+    display:flex;
+    justify-content:space-around;
+    align-content: center;
+}
+
+.card-img-top{
+    width: 10vw;
+    margin-top: 10vh;
+}
+
+#reviews{
+    display:flex;
+    justify-content:space-around;
+    align-content: center;
+}
+
+.card-img-rev{
+    width: 10vw;
+    margin-top: 10vh;
+    border-radius: 50%;
+}
+
+#form{
+    width: auto;
+    height: auto;
+}
+
+#footer{
+    background-color:antiquewhite;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
