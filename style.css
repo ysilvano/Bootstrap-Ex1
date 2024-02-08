@@ -1,8 +1,13 @@
+#body{
+    background-color:azure;
+}
+
 #menu{
     width: auto;
     height: auto;
     background-color: white;
     background-size: 2%;
+    opacity: 80%;
 }
 
 #logo{
@@ -10,10 +15,12 @@
 }
 
 #carrosel{
-    margin-left: 2%;
     width: auto;
     height: auto;
+    margin-left: 2%;
     margin-right: 2%;
+    max-width: 500vw;
+    max-height: 200vh;
 }
 
 #promocoes{
