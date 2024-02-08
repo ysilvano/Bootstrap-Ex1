@@ -5,9 +5,15 @@
     background-size: 2%;
 }
 
+#logo{
+    height: 5vh;
+}
+
 #carrosel{
+    margin-left: 2%;
     width: auto;
     height: auto;
+    margin-right: 2%;
 }
 
 #promocoes{
@@ -17,8 +23,8 @@
 }
 
 .card-img-top{
-    width: 10vw;
-    margin-top: 10vh;
+    width: 100%;
+    height: 100%;
 }
 
 #reviews{
@@ -28,8 +34,8 @@
 }
 
 .card-img-rev{
-    width: 10vw;
-    margin-top: 10vh;
+    width: 100%;
+    height: 100%;
     border-radius: 50%;
 }
 
